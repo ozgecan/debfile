@@ -1,0 +1,9 @@
+Package: apacheds-mongodb
+Version: 0.1
+Section: devel
+Priority: optional
+Architecture: all
+Installed-Size: 11504
+Maintainer: Özge AYAZ <libbydrycold@gmail.com>
+Description: LDAP Server
+
